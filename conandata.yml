@@ -1,0 +1,12 @@
+---
+sources:
+  3.0.1:
+    sha256: 051c555091f71b1b51f9bef3d99d03f7cc436d1cfd20580df925fe192d190ce7
+    url:
+      - https://github.com/gurki/vivid/archive/refs/tags/v3.0.1.tar.gz
+
+dependencies:
+  3.0.1:
+    glm: cci.20230113
+
+patches:
